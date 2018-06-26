@@ -1,0 +1,2 @@
+model_checkpoint_path: "handwrite_ocr_model.cpkt"
+all_model_checkpoint_paths: "handwrite_ocr_model.cpkt"
